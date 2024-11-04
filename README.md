@@ -1,1 +1,1 @@
-# paint-github-c9c01
+Import from GitLab and BitBucket
